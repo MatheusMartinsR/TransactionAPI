@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Transacao {
 
-  private Double valor;
+  private double valor;
 
   private OffsetDateTime dataHora;
 
